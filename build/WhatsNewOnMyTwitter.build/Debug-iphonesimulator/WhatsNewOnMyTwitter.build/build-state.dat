@@ -1,0 +1,1009 @@
+TWhatsNewOnMyTwitter
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch.pch WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/WebServiceRequest.o /Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/WebServiceRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AppDelegate.o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/MainViewController.o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/main.o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/DetailViewController.o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/WhatsNewOnMyTwitter normal i386
+cCompileStoryboard /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/Base.lproj/Main_StoryBoard.storyboard
+cCopyStringsFile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/en.lproj/InfoPlist.strings WhatsNewOnMyTwitter/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/Images.xcassets
+cProcessInfoPlistFile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/Info.plist /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Info.plist
+cGenerateDSYMFile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app.dSYM /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/WhatsNewOnMyTwitter
+cTouch /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052866E0100000000000003B5
+t1384541697
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052866E1100000000000001A0
+t1384541713
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c0000000052866E130000000000191F30
+t1384541715
+s1646384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c0000000052866E1400000000004F2C70
+t1384541716
+s5188720
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000052866E1600000000005838D0
+t1384541718
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052866E1700000000005B82A0
+t1384541719
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052866E170000000000445870
+t1384541719
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000052866E180000000000355050
+t1384541720
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052866E1900000000002F6810
+t1384541721
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000052866E19000000000004B000
+t1384541721
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052866E1B000000000088C680
+t1384541723
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000052866E1E0000000000037620
+t1384541726
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000052866E2000000000004848F0
+t1384541728
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052866E1F00000000001290B0
+t1384541727
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052866E260000000001DB9910
+t1384541734
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000052866E4400000000002B9F20
+t1384541764
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c0000000052866E540000000000002338
+t1384541780
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c0000000052866E56000000000008D300
+t1384541782
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c0000000052866E56000000000038ACB0
+t1384541782
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c0000000052856C4B00000000000141F0
+t1384475723
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c0000000052866E570000000000013500
+t1384541783
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000052866E570000000000033BA0
+t1384541783
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000052866E57000000000001CFB0
+t1384541783
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000052866E57000000000001B2B0
+t1384541783
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c0000000052866E5700000000000632B0
+t1384541783
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000052866E570000000000008880
+t1384541783
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000052866E570000000000015080
+t1384541783
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000052866E5700000000000230E0
+t1384541783
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000052866E57000000000000E380
+t1384541783
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052866E570000000000087200
+t1384541783
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c0000000052866E5700000000000171A0
+t1384541783
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000052866E570000000000039C10
+t1384541783
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000052866E57000000000000B0B0
+t1384541783
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000052866E570000000000167FE0
+t1384541783
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000052866E5700000000000106A0
+t1384541783
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000052866E57000000000001CE40
+t1384541783
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000052866E570000000000071040
+t1384541783
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000052866E570000000000067A10
+t1384541783
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000052866E57000000000001BAD0
+t1384541783
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c0000000052866E570000000000088BA0
+t1384541783
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052866EA00000000000000AC9
+t1384541856
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c0000000052866EA00000000000005004
+t1384541856
+s20484
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.h
+c00000000528BCD130000000000000225
+t1384893715
+s549
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m
+c00000000528BCC4A0000000000000954
+t1384893514
+s2388
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m
+c00000000528BCA210000000000000944
+t1384892961
+s2372
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h
+c0000000052891FCF00000000000001FA
+t1384718287
+s506
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m
+c00000000528928260000000000000C51
+t1384720422
+s3153
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AppDelegate.h
+c00000000528671850000000000000126
+t1384542597
+s294
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AppDelegate.m
+c000000005286718500000000000007E8
+t1384542597
+s2024
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/Base.lproj/Main_StoryBoard.storyboard
+c00000000528BD38B00000000000039E0
+t1384895371
+s14816
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/DetailViewController.h
+c00000000528D0B8500000000000004B1
+t1384975237
+s1201
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/DetailViewController.m
+c00000000528D12B900000000000014BC
+t1384977081
+s5308
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/FlipsideViewController.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/FlipsideViewController.m
+c0000000052892863000000000000138E
+t1384720483
+s5006
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/Images.xcassets
+c00000000528671850000000000000088
+t1384542597
+s136
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/MainViewController.h
+c00000000528BD5CA00000000000004BB
+t1384895946
+s1211
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/MainViewController.m
+c00000000528BD70C0000000000001BB4
+t1384896268
+s7092
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Info.plist
+c000000005287C6E400000000000006C0
+t1384629988
+s1728
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Prefix.pch
+c00000000528671850000000000000158
+t1384542597
+s344
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/en.lproj/InfoPlist.strings
+c0000000052867185000000000000002D
+t1384542597
+s45
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/main.m
+c00000000528671850000000000000162
+t1384542597
+s354
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app
+t1384977087
+s306
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app.dSYM
+t1384976397
+s102
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/Base.lproj/Main_StoryBoard.storyboardc
+t1384895381
+s238
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/Info.plist
+t1384632405
+s1397
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/PkgInfo
+t1384632405
+s8
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/WhatsNewOnMyTwitter
+t1384977087
+s70184
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/en.lproj/InfoPlist.strings
+t1384632404
+s42
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookAndShareHelper.o
+t2
+s0
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookHelper.o
+t2
+s0
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookViewController.o
+c0000000052892828000000000001063C
+t1384720424
+s67132
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AppDelegate.o
+t1384632403
+s65328
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/DetailViewController.o
+t1384977087
+s80400
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/FlipsideViewController.o
+c00000000528928630000000000013FAC
+t1384720483
+s81836
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/MainViewController.o
+t1384975625
+s106820
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/WebServiceRequest.o
+t1384896269
+s15908
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/WhatsNewOnMyTwitter.LinkFileList
+c00000000528BD1FA000000000000038E
+t1384894970
+s910
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/iOSRequest.o
+c000000005287D0530000000000003D88
+t1384632403
+s15752
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/main.o
+t1384632404
+s3752
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/assetcatalog_dependencies.txt
+t1384632405
+s468
+
+N/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/assetcatalog_generated_info.plist
+t1384632405
+s525
+
+N/Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/NSString+WebService.h
+c00000000507B15FE0000000000000106
+t1350243838
+s262
+
+N/Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/WebServiceRequest.h
+c00000000528BC6E40000000000000261
+t1384892132
+s609
+
+N/Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/WebServiceRequest.m
+c00000000528BD701000000000000078E
+t1384896257
+s1934
+
+N/Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/iOSRequest.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/iOSRequest.m
+c00000000507B15FE0000000000000778
+t1350243838
+s1912
+
+N/usr/lib/libSystem.B.dylib
+c0000000052856C26000000000000E6D0
+t1384475686
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000052856C4B0000000000012A00
+t1384475723
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052856C09000000000002E320
+t1384475657
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000052856C260000000000021860
+t1384475686
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052856C49000000000001B620
+t1384475721
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000052856C4900000000000BD920
+t1384475721
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c0000000052856C4B00000000000141F0
+t1384475723
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005219501E000000000000A120
+t1377390622
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000052856C4B000000000001D550
+t1384475723
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000052856C490000000000014EE0
+t1384475721
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000052856C4E0000000000010380
+t1384475726
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052856C4E000000000000C4C0
+t1384475726
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000052856C4B00000000000357A0
+t1384475723
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052856C4B000000000000C070
+t1384475723
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000052856C260000000000168C00
+t1384475686
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000052856C490000000000010630
+t1384475721
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000052856C4C000000000001DF10
+t1384475724
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000052856C260000000000075B00
+t1384475686
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000052856C26000000000007CC70
+t1384475686
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000052856C2600000000000766C0
+t1384475686
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000052856C4C0000000000044DC0
+t1384475724
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000052856C260000000000021FA0
+t1384475686
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000052856C4C000000000002D900
+t1384475724
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052856C4C000000000001E570
+t1384475724
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000052856C35000000000000CC70
+t1384475701
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052856C3E000000000000C3F0
+t1384475710
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000052856C4C00000000000199F0
+t1384475724
+s104944
+
+N/var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch.pch
+t1384632403
+s115412
+
+CBuild AST from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m
+r0
+
+CBuild AST from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m
+r0
+
+CBuild AST from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m
+r0
+
+CBuild AST from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AppDelegate.m
+r0
+
+CBuild AST from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/DetailViewController.m
+r0
+
+CBuild AST from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/FlipsideViewController.m
+r0
+
+CBuild AST from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/MainViewController.m
+r0
+
+CBuild AST from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/main.m
+r0
+
+CBuild AST from /Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/WebServiceRequest.m
+r0
+
+CBuild AST from /Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/iOSRequest.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf303233c4a3db841^a034383c4a3db841^---0#1#1#--18"Check dependencies36"3AE743DE-29C6-4986-814F-991703CA398F-
+
+CCompileAssetCatalog /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/Images.xcassets
+s406325204.181956
+e406325205.172407
+r1
+xCompileAssetCatalog
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/LaunchImage-700-568h@2x.png
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/Assets.car
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"CompileAssetCatalog build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app WhatsNewOnMyTwitter/Images.xcassets107"CompileAssetCatalog build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app WhatsNewOnMyTwitter/Images.xcassetsc0ae2ed40738b841^46262cd50738b841^-496"/* com.apple.actool.compilation-results *//Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/LaunchImage-700-568h@2x.png/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/Assets.car/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@108"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/Images.xcassets/0000000000000000^1339"CompileAssetCatalog build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app WhatsNewOnMyTwitter/Images.xcassets    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/Images.xcassets36"91EB38E9-DD37-4387-90FA-6AE267F03932-
+bB2E29E3A-9273-4DAE-834F-D157E0D7AF48
+
+CCompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookAndShareHelper.o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406586518.006427
+e406586518.105051
+r0
+xCompileC
+xbuild/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookAndShareHelper.o
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.h
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m:27:11: error: no visible @interface for 'AddressBookAndShareHelper' declares the selector 'presentViewController:animated:completion:'
+o    [self presentViewController:picker animated:YES completion:nil];
+o     ~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m:32:11: error: no visible @interface for 'AddressBookAndShareHelper' declares the selector 'dismissViewControllerAnimated:completion:'
+o    [self dismissViewControllerAnimated:YES completion:nil];
+o     ~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m:38:11: error: no visible @interface for 'AddressBookAndShareHelper' declares the selector 'dismissViewControllerAnimated:completion:'
+o    [self dismissViewControllerAnimated:YES completion:^{[self showShareDialog];}];
+o     ~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m:60:11: error: no visible @interface for 'AddressBookAndShareHelper' declares the selector 'presentViewController:animated:completion:'
+o    [self presentViewController:activityVC animated:YES completion:nil];
+o     ~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o4 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m252"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookAndShareHelper.o WhatsNewOnMyTwitter/AddressBookAndShareHelper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler08550296043cb841^79031c96043cb841^-1537"/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m:27:11: error: no visible @interface for 'AddressBookAndShareHelper' declares the selector 'presentViewController:animated:completion:'    [self presentViewController:picker animated:YES completion:nil];     ~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m:32:11: error: no visible @interface for 'AddressBookAndShareHelper' declares the selector 'dismissViewControllerAnimated:completion:'    [self dismissViewControllerAnimated:YES completion:nil];     ~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m:38:11: error: no visible @interface for 'AddressBookAndShareHelper' declares the selector 'dismissViewControllerAnimated:completion:'    [self dismissViewControllerAnimated:YES completion:^{[self showShareDialog];}];     ~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m:60:11: error: no visible @interface for 'AddressBookAndShareHelper' declares the selector 'presentViewController:animated:completion:'    [self presentViewController:activityVC animated:YES completion:nil];     ~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~4 errors generated.4(36%IDEClangDiagnosticActivityLogMessage2@120"No visible @interface for 'AddressBookAndShareHelper' declares the selector 'presentViewController:animated:completion:'-406586518#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m0000000000000000^26#10#26#10#765#0#18"ARC Semantic Issue2(3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m0000000000000000^26#5#26#9#760#0#3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m0000000000000000^26#10#26#62#765#42#-2@119"No visible @interface for 'AddressBookAndShareHelper' declares the selector 'dismissViewControllerAnimated:completion:'-406586518#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m0000000000000000^31#10#31#10#941#0#18"ARC Semantic Issue2(3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m0000000000000000^31#5#31#9#936#0#3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m0000000000000000^31#10#31#54#941#34#-2@119"No visible @interface for 'AddressBookAndShareHelper' declares the selector 'dismissViewControllerAnimated:completion:'-406586518#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m0000000000000000^37#10#37#10#1160#0#18"ARC Semantic Issue2(3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m0000000000000000^37#5#37#9#1155#0#3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m0000000000000000^37#10#37#54#1160#34#-2@120"No visible @interface for 'AddressBookAndShareHelper' declares the selector 'presentViewController:animated:completion:'-406586518#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m0000000000000000^59#10#59#10#2314#0#18"ARC Semantic Issue2(3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m0000000000000000^59#5#59#9#2309#0#3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m0000000000000000^59#10#59#66#2314#46#-0#0#1#-19%DVTDocumentLocation4@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m0000000000000000^4307"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookAndShareHelper.o WhatsNewOnMyTwitter/AddressBookAndShareHelper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-generated-files.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-own-target-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-all-target-headers.hmap -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-project-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources/i386 -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources -F/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator -include /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch -MMD -MT dependencies -MF /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookAndShareHelper.d --serialize-diagnostics /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookAndShareHelper.dia -c /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookAndShareHelper.m -o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookAndShareHelper.o36"EA1D143F-B990-433F-9C5B-11B65DBAA4B5-
+bB628F042-F46E-45A3-A8C2-F65E30780303
+
+CCompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookHelper.o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406586161.967782
+e406586162.169941
+r0
+xCompileC
+xbuild/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookHelper.o
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.h
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m:27:11: error: no visible @interface for 'AddressBookHelper' declares the selector 'presentViewController:animated:completion:'
+o    [self presentViewController:picker animated:YES completion:nil];
+o     ~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m:32:11: error: no visible @interface for 'AddressBookHelper' declares the selector 'dismissViewControllerAnimated:completion:'
+o    [self dismissViewControllerAnimated:YES completion:nil];
+o     ~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m:38:11: error: no visible @interface for 'AddressBookHelper' declares the selector 'dismissViewControllerAnimated:completion:'
+o    [self dismissViewControllerAnimated:YES completion:^{[self showShareDialog];}];
+o     ~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m:60:11: error: no visible @interface for 'AddressBookHelper' declares the selector 'presentViewController:animated:completion:'
+o    [self presentViewController:activityVC animated:YES completion:nil];
+o     ~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o4 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m236"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookHelper.o WhatsNewOnMyTwitter/AddressBookHelper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler29e7f731033cb841^67802b32033cb841^-1473"/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m:27:11: error: no visible @interface for 'AddressBookHelper' declares the selector 'presentViewController:animated:completion:'    [self presentViewController:picker animated:YES completion:nil];     ~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m:32:11: error: no visible @interface for 'AddressBookHelper' declares the selector 'dismissViewControllerAnimated:completion:'    [self dismissViewControllerAnimated:YES completion:nil];     ~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m:38:11: error: no visible @interface for 'AddressBookHelper' declares the selector 'dismissViewControllerAnimated:completion:'    [self dismissViewControllerAnimated:YES completion:^{[self showShareDialog];}];     ~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m:60:11: error: no visible @interface for 'AddressBookHelper' declares the selector 'presentViewController:animated:completion:'    [self presentViewController:activityVC animated:YES completion:nil];     ~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~4 errors generated.4(36%IDEClangDiagnosticActivityLogMessage2@112"No visible @interface for 'AddressBookHelper' declares the selector 'presentViewController:animated:completion:'-406586162#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@111"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m0000000000000000^26#10#26#10#749#0#18"ARC Semantic Issue2(3@111"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m0000000000000000^26#5#26#9#744#0#3@111"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m0000000000000000^26#10#26#62#749#42#-2@111"No visible @interface for 'AddressBookHelper' declares the selector 'dismissViewControllerAnimated:completion:'-406586162#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@111"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m0000000000000000^31#10#31#10#925#0#18"ARC Semantic Issue2(3@111"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m0000000000000000^31#5#31#9#920#0#3@111"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m0000000000000000^31#10#31#54#925#34#-2@111"No visible @interface for 'AddressBookHelper' declares the selector 'dismissViewControllerAnimated:completion:'-406586162#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@111"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m0000000000000000^37#10#37#10#1144#0#18"ARC Semantic Issue2(3@111"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m0000000000000000^37#5#37#9#1139#0#3@111"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m0000000000000000^37#10#37#54#1144#34#-2@112"No visible @interface for 'AddressBookHelper' declares the selector 'presentViewController:animated:completion:'-406586162#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@111"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m0000000000000000^59#10#59#10#2298#0#18"ARC Semantic Issue2(3@111"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m0000000000000000^59#5#59#9#2293#0#3@111"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m0000000000000000^59#10#59#66#2298#46#-0#0#1#-19%DVTDocumentLocation4@111"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m0000000000000000^4259"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookHelper.o WhatsNewOnMyTwitter/AddressBookHelper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-generated-files.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-own-target-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-all-target-headers.hmap -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-project-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources/i386 -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources -F/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator -include /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch -MMD -MT dependencies -MF /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookHelper.d --serialize-diagnostics /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookHelper.dia -c /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookHelper.m -o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookHelper.o36"DDB5E320-492B-4B32-8526-CACCB98BA4E6-
+b42625608-0BBF-44DC-9947-D5CADC9169C6
+
+CCompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookViewController.o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406413224.234926
+e406413224.454698
+r1
+xCompileC
+xbuild/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookViewController.o
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m:57:20: warning: unused variable 'addressBookEntry' [-Wunused-variable]
+o     NSDictionary *addressBookEntry = [addressBook objectForKey:[addressBookKeys objectAtIndex:indexPath.row]];
+o                   ^
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m:85:11: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    [self presentModalViewController:picker animated:YES];
+o          ^
+oIn module 'UIKit' imported from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: note: method 'presentModalViewController:animated:' declared here
+o- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m:11:17: warning: method 'peoplePickerNavigationControllerDidCancel:' in protocol not implemented [-Wprotocol]
+o@implementation AddressBookViewController
+o                ^
+oIn module 'AddressBookUI' imported from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/ABPeoplePickerNavigationController.h:41:1: note: method 'peoplePickerNavigationControllerDidCancel:' declared here
+o- (void)peoplePickerNavigationControllerDidCancel:(ABPeoplePickerNavigationController *)peoplePicker;
+o^
+oIn file included from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m:9:
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h:12:12: note: required for direct or indirect protocol 'ABPeoplePickerNavigationControllerDelegate'
+o@interface AddressBookViewController : UITableViewController  <ABPeoplePickerNavigationControllerDelegate>
+o           ^
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m:11:17: warning: method 'peoplePickerNavigationController:shouldContinueAfterSelectingPerson:' in protocol not implemented [-Wprotocol]
+o@implementation AddressBookViewController
+o                ^
+oIn module 'AddressBookUI' imported from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/ABPeoplePickerNavigationController.h:46:1: note: method 'peoplePickerNavigationController:shouldContinueAfterSelectingPerson:' declared here
+o- (BOOL)peoplePickerNavigationController:(ABPeoplePickerNavigationController *)peoplePicker shouldContinueAfterSelectingPerson:(ABRecordRef)person;
+o^
+oIn file included from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m:9:
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h:12:12: note: required for direct or indirect protocol 'ABPeoplePickerNavigationControllerDelegate'
+o@interface AddressBookViewController : UITableViewController  <ABPeoplePickerNavigationControllerDelegate>
+o           ^
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m:11:17: warning: method 'peoplePickerNavigationController:shouldContinueAfterSelectingPerson:property:identifier:' in protocol not implemented [-Wprotocol]
+o@implementation AddressBookViewController
+o                ^
+oIn module 'AddressBookUI' imported from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/ABPeoplePickerNavigationController.h:50:1: note: method 'peoplePickerNavigationController:shouldContinueAfterSelectingPerson:property:identifier:' declared here
+o- (BOOL)peoplePickerNavigationController:(ABPeoplePickerNavigationController *)peoplePicker shouldContinueAfterSelectingPerson:(ABRecordRef)person property:(ABPropertyID)property identifier:(ABMultiValueIdentifier)identifier;
+o^
+oIn file included from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m:9:
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h:12:12: note: required for direct or indirect protocol 'ABPeoplePickerNavigationControllerDelegate'
+o@interface AddressBookViewController : UITableViewController  <ABPeoplePickerNavigationControllerDelegate>
+o           ^
+o5 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m252"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookViewController.o WhatsNewOnMyTwitter/AddressBookViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler34493ca85f39b841^c13676a85f39b841^-5405"/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m:57:20: warning: unused variable 'addressBookEntry' [-Wunused-variable]     NSDictionary *addressBookEntry = [addressBook objectForKey:[addressBookKeys objectAtIndex:indexPath.row]];                   ^/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m:85:11: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    [self presentModalViewController:picker animated:YES];          ^In module 'UIKit' imported from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: note: method 'presentModalViewController:animated:' declared here- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m:11:17: warning: method 'peoplePickerNavigationControllerDidCancel:' in protocol not implemented [-Wprotocol]@implementation AddressBookViewController                ^In module 'AddressBookUI' imported from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h:10:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/ABPeoplePickerNavigationController.h:41:1: note: method 'peoplePickerNavigationControllerDidCancel:' declared here- (void)peoplePickerNavigationControllerDidCancel:(ABPeoplePickerNavigationController *)peoplePicker;^In file included from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m:9:/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h:12:12: note: required for direct or indirect protocol 'ABPeoplePickerNavigationControllerDelegate'@interface AddressBookViewController : UITableViewController  <ABPeoplePickerNavigationControllerDelegate>           ^/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m:11:17: warning: method 'peoplePickerNavigationController:shouldContinueAfterSelectingPerson:' in protocol not implemented [-Wprotocol]@implementation AddressBookViewController                ^In module 'AddressBookUI' imported from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h:10:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/ABPeoplePickerNavigationController.h:46:1: note: method 'peoplePickerNavigationController:shouldContinueAfterSelectingPerson:' declared here- (BOOL)peoplePickerNavigationController:(ABPeoplePickerNavigationController *)peoplePicker shouldContinueAfterSelectingPerson:(ABRecordRef)person;^In file included from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m:9:/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h:12:12: note: required for direct or indirect protocol 'ABPeoplePickerNavigationControllerDelegate'@interface AddressBookViewController : UITableViewController  <ABPeoplePickerNavigationControllerDelegate>           ^/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m:11:17: warning: method 'peoplePickerNavigationController:shouldContinueAfterSelectingPerson:property:identifier:' in protocol not implemented [-Wprotocol]@implementation AddressBookViewController                ^In module 'AddressBookUI' imported from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h:10:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/ABPeoplePickerNavigationController.h:50:1: note: method 'peoplePickerNavigationController:shouldContinueAfterSelectingPerson:property:identifier:' declared here- (BOOL)peoplePickerNavigationController:(ABPeoplePickerNavigationController *)peoplePicker shouldContinueAfterSelectingPerson:(ABRecordRef)person property:(ABPropertyID)property identifier:(ABMultiValueIdentifier)identifier;^In file included from /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m:9:/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h:12:12: note: required for direct or indirect protocol 'ABPeoplePickerNavigationControllerDelegate'@interface AddressBookViewController : UITableViewController  <ABPeoplePickerNavigationControllerDelegate>           ^5 warnings generated.5(36%IDEClangDiagnosticActivityLogMessage2@34"Unused variable 'addressBookEntry'-406413224#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m0000000000000000^56#19#56#19#1700#0#19"Unused Entity Issue--2@81"'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0-406413224#18446744073709551615#0#1(2@59"Method 'presentModalViewController:animated:' declared here-406413224#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^250#0#250#0#13300#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m0000000000000000^84#10#84#10#3096#0#12"Deprecations--2@79"Method 'peoplePickerNavigationControllerDidCancel:' in protocol not implemented-406413224#18446744073709551615#0#2(2@65"Method 'peoplePickerNavigationControllerDidCancel:' declared here-406413224#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@217"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/ABPeoplePickerNavigationController.h0000000000000000^40#0#40#0#1764#0#14"Semantic Issue--2@85"Required for direct or indirect protocol 'ABPeoplePickerNavigationControllerDelegate'-406413224#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h0000000000000000^11#11#11#11#243#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m0000000000000000^10#16#10#16#222#0#14"Semantic Issue--2@105"Method 'peoplePickerNavigationController:shouldContinueAfterSelectingPerson:' in protocol not implemented-406413224#18446744073709551615#0#2(2@91"Method 'peoplePickerNavigationController:shouldContinueAfterSelectingPerson:' declared here-406413224#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@217"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/ABPeoplePickerNavigationController.h0000000000000000^45#0#45#0#2080#0#14"Semantic Issue--2@85"Required for direct or indirect protocol 'ABPeoplePickerNavigationControllerDelegate'-406413224#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h0000000000000000^11#11#11#11#243#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m0000000000000000^10#16#10#16#222#0#14"Semantic Issue--2@125"Method 'peoplePickerNavigationController:shouldContinueAfterSelectingPerson:property:identifier:' in protocol not implemented-406413224#18446744073709551615#0#2(2@111"Method 'peoplePickerNavigationController:shouldContinueAfterSelectingPerson:property:identifier:' declared here-406413224#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@217"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/ABPeoplePickerNavigationController.h0000000000000000^49#0#49#0#2443#0#14"Semantic Issue--2@85"Required for direct or indirect protocol 'ABPeoplePickerNavigationControllerDelegate'-406413224#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.h0000000000000000^11#11#11#11#243#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m0000000000000000^10#16#10#16#222#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@119"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m0000000000000000^4307"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookViewController.o WhatsNewOnMyTwitter/AddressBookViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-generated-files.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-own-target-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-all-target-headers.hmap -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-project-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources/i386 -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources -F/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator -include /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch -MMD -MT dependencies -MF /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookViewController.d --serialize-diagnostics /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookViewController.dia -c /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AddressBookViewController.m -o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AddressBookViewController.o36"F3D0DF73-11C8-4D2A-A822-37C788FAF0E2-
+b1136165F-2254-4C74-A4EF-B177844125F8
+
+CCompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AppDelegate.o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406325203.666197
+e406325203.940606
+r1
+xCompileC
+xbuild/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AppDelegate.o
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AppDelegate.m
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AppDelegate.m224"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AppDelegate.o WhatsNewOnMyTwitter/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8eaeaad30738b841^b0cbf0d30738b841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AppDelegate.m0000000000000000^4223"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AppDelegate.o WhatsNewOnMyTwitter/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-generated-files.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-own-target-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-all-target-headers.hmap -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-project-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources/i386 -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources -F/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator -include /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch -MMD -MT dependencies -MF /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AppDelegate.dia -c /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AppDelegate.m -o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AppDelegate.o36"B04AB382-A474-4ED0-B74F-50D0E378904D-
+bB2E29E3A-9273-4DAE-834F-D157E0D7AF48
+
+CCompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/DetailViewController.o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406669884.218342
+e406669887.105278
+r1
+xCompileC
+xbuild/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/DetailViewController.o
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/DetailViewController.m
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/DetailViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/DetailViewController.m242"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/DetailViewController.o WhatsNewOnMyTwitter/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1b0d383c4a3db841^bff41a3f4a3db841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/DetailViewController.m0000000000000000^4277"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/DetailViewController.o WhatsNewOnMyTwitter/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-generated-files.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-own-target-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-all-target-headers.hmap -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-project-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources/i386 -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources -F/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator -include /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch -MMD -MT dependencies -MF /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/DetailViewController.d --serialize-diagnostics /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/DetailViewController.dia -c /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/DetailViewController.m -o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/DetailViewController.o36"407ED7A6-8711-444A-9DC6-A43DB75CF211-
+b358D4257-B025-43D5-88E3-1DA907790718
+
+CCompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/FlipsideViewController.o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/FlipsideViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406413283.642726
+e406413283.820907
+r1
+xCompileC
+xbuild/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/FlipsideViewController.m
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/FlipsideViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/FlipsideViewController.m246"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/FlipsideViewController.o WhatsNewOnMyTwitter/FlipsideViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileraeb8a4e35f39b841^dc2cd2e35f39b841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/FlipsideViewController.m0000000000000000^4289"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/FlipsideViewController.o WhatsNewOnMyTwitter/FlipsideViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-generated-files.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-own-target-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-all-target-headers.hmap -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-project-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources/i386 -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources -F/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator -include /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch -MMD -MT dependencies -MF /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/FlipsideViewController.d --serialize-diagnostics /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/FlipsideViewController.dia -c /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/FlipsideViewController.m -o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/FlipsideViewController.o36"AAACF82E-766B-48CF-BC03-FDB11D14D45C-
+bC1203E1D-A802-4CF4-A393-F3873FB0A495
+
+CCompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/MainViewController.o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406668424.686730
+e406668425.059904
+r1
+xCompileC
+xbuild/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/MainViewController.o
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/MainViewController.m
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/MainViewController.h
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/DetailViewController.h
+d/Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/WebServiceRequest.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/MainViewController.m238"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/MainViewController.o WhatsNewOnMyTwitter/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7ff6af88443db841^48700f89443db841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/MainViewController.m0000000000000000^4265"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/MainViewController.o WhatsNewOnMyTwitter/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-generated-files.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-own-target-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-all-target-headers.hmap -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-project-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources/i386 -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources -F/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator -include /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch -MMD -MT dependencies -MF /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/MainViewController.dia -c /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/MainViewController.m -o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/MainViewController.o36"EB97246E-B81F-4CB1-A42A-E0E9F0CB07AF-
+bD2995C67-048C-46FB-A43E-4E247B0E7609
+
+CCompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/WebServiceRequest.o /Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/WebServiceRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406589069.033578
+e406589069.458461
+r1
+xCompileC
+xbuild/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/WebServiceRequest.o
+x/Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/WebServiceRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/WebServiceRequest.m
+d/Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/WebServiceRequest.h
+d/Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/NSString+WebService.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/WebServiceRequest.m299"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/WebServiceRequest.o /Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/WebServiceRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerecc1088d0e3cb841^4a5e758d0e3cb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/WebServiceRequest.m0000000000000000^4320"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/WebServiceRequest.o /Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/WebServiceRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-generated-files.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-own-target-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-all-target-headers.hmap -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-project-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources/i386 -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources -F/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator -include /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch -MMD -MT dependencies -MF /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/WebServiceRequest.d --serialize-diagnostics /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/WebServiceRequest.dia -c /Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/WebServiceRequest.m -o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/WebServiceRequest.o36"9B00BE66-D1DD-4C98-8993-FA9255762D47-
+bA27C4E50-FEAE-4E4E-9D0A-AE6222A33125
+
+CCompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/iOSRequest.o /Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/iOSRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406325203.665295
+e406325203.888115
+r1
+xCompileC
+xbuild/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/iOSRequest.o
+x/Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/iOSRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/iOSRequest.m
+d/Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/iOSRequest.h
+d/Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/NSString+WebService.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/iOSRequest.m285"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/iOSRequest.o /Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/iOSRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7c7caad30738b841^215ae3d30738b841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/iOSRequest.m0000000000000000^4278"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/iOSRequest.o /Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/iOSRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-generated-files.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-own-target-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-all-target-headers.hmap -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-project-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources/i386 -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources -F/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator -include /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch -MMD -MT dependencies -MF /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/iOSRequest.d --serialize-diagnostics /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/iOSRequest.dia -c /Users/davidsan1001/Downloads/WebServiceDemoComplete-master/WebServiceDemoComplete/iOSRequest.m -o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/iOSRequest.o36"6AA8A313-C37A-4A97-B70B-F86D2C80B733-
+bB2E29E3A-9273-4DAE-834F-D157E0D7AF48
+
+CCompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/main.o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406325204.060316
+e406325204.115513
+r1
+xCompileC
+xbuild/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/main.o
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/main.m
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/main.m210"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/main.o WhatsNewOnMyTwitter/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera6980fd40738b841^b79a1dd40738b841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/main.m0000000000000000^4181"CompileC build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/main.o WhatsNewOnMyTwitter/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-generated-files.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-own-target-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-all-target-headers.hmap -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-project-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources/i386 -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources -F/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator -include /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch -MMD -MT dependencies -MF /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/main.dia -c /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/main.m -o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/main.o36"CE16EB66-6467-4131-9E56-B863715D89D8-
+bB2E29E3A-9273-4DAE-834F-D157E0D7AF48
+
+CCompileStoryboard /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/Base.lproj/Main_StoryBoard.storyboard
+s406588175.373332
+e406588181.567668
+r1
+xCompileStoryboard
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/Base.lproj/Main_StoryBoard.storyboard
+o/* com.apple.ibtool.document.warnings */
+o/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/Base.lproj/Main_StoryBoard.storyboard:quc-4P-Vgr: warning: Position is ambiguous for "Label - 10 min. update interval". [17]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"CompileStoryboard WhatsNewOnMyTwitter/Base.lproj/Main_StoryBoard.storyboard75"CompileStoryboard WhatsNewOnMyTwitter/Base.lproj/Main_StoryBoard.storyboard6da95f0f0b3cb841^d96091150b3cb841^-246"/* com.apple.ibtool.document.warnings *//Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/Base.lproj/Main_StoryBoard.storyboard:quc-4P-Vgr: warning: Position is ambiguous for "Label - 10 min. update interval".1(21%IDEActivityLogMessage2@60"Position is ambiguous for "Label - 10 min. update interval".-406588181#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@129"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/Base.lproj/Main_StoryBoard.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#16"Ambiguous Layout--0#0#1#-19%DVTDocumentLocation4@129"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/Base.lproj/Main_StoryBoard.storyboard0000000000000000^977"CompileStoryboard WhatsNewOnMyTwitter/Base.lproj/Main_StoryBoard.storyboard    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/Base.lproj/Main_StoryBoard.storyboardc /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/Base.lproj/Main_StoryBoard.storyboard36"4CE4651E-802A-4D16-AC7F-CA584A1520E9-
+bE3CA394C-7290-4DBD-AE73-1EEAFE4BD709
+
+CCopyStringsFile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/en.lproj/InfoPlist.strings WhatsNewOnMyTwitter/en.lproj/InfoPlist.strings
+s406325204.179250
+e406325204.181516
+r1
+xCopyStringsFile
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/en.lproj/InfoPlist.strings
+xWhatsNewOnMyTwitter/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy WhatsNewOnMyTwitter/en.lproj/InfoPlist.strings141"CopyStringsFile build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/en.lproj/InfoPlist.strings WhatsNewOnMyTwitter/en.lproj/InfoPlist.stringscf102ed40738b841^037d2ed40738b841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/en.lproj/InfoPlist.strings0000000000000000^675"CopyStringsFile build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/en.lproj/InfoPlist.strings WhatsNewOnMyTwitter/en.lproj/InfoPlist.strings    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/en.lproj -- WhatsNewOnMyTwitter/en.lproj/InfoPlist.strings36"1B9689A8-E59C-47CC-BF2C-51D38B3532FB-
+bB2E29E3A-9273-4DAE-834F-D157E0D7AF48
+
+CGenerateDSYMFile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app.dSYM /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/WhatsNewOnMyTwitter
+s406669887.973625
+e406669888.071247
+r1
+xGenerateDSYMFile
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app.dSYM
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/WhatsNewOnMyTwitter
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Generate /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app.dSYM145"GenerateDSYMFile build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app.dSYM build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/WhatsNewOnMyTwitter2a52f93f4a3db841^e94812404a3db841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app.dSYM/0000000000000000^775"GenerateDSYMFile build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app.dSYM build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/WhatsNewOnMyTwitter    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/WhatsNewOnMyTwitter -o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app.dSYM36"CDFD7FAD-A488-431F-9A60-CB71A2A3FE6B-
+b358D4257-B025-43D5-88E3-1DA907790718
+
+CLd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/WhatsNewOnMyTwitter normal i386
+s406669887.108071
+e406669887.971137
+r1
+xLd
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/WhatsNewOnMyTwitter
+xnormal
+xi386
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/WhatsNewOnMyTwitter.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/WebServiceRequest.o
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/AppDelegate.o
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/MainViewController.o
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/DetailViewController.o
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Link /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/WhatsNewOnMyTwitter86"Ld build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/WhatsNewOnMyTwitter normal i3862fc31b3f4a3db841^e7a7f83f4a3db841^---0#0#1#--1601"Ld build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/WhatsNewOnMyTwitter normal i386    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator -F/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator -filelist /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/WhatsNewOnMyTwitter.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/Objects-normal/i386/WhatsNewOnMyTwitter_dependency_info.dat -o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/WhatsNewOnMyTwitter36"A645222F-BC42-4424-A85D-E9B5E53DC9B9-
+b358D4257-B025-43D5-88E3-1DA907790718
+
+CProcessInfoPlistFile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/Info.plist /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Info.plist
+s406325205.173228
+e406325205.175998
+r1
+xProcessInfoPlistFile
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/Info.plist
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Process /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Info.plist134"ProcessInfoPlistFile build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/Info.plist WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Info.plistec6c2cd50738b841^aa0e2dd50738b841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Info.plist0000000000000000^1079"ProcessInfoPlistFile build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/Info.plist WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Info.plist    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Info.plist -genpkginfo /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/assetcatalog_generated_info.plist -o /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app/Info.plist36"AA7028AA-958D-468C-ABF0-D5F99361CD7B-
+bB2E29E3A-9273-4DAE-834F-D157E0D7AF48
+
+CProcessPCH /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/DerivedData/WhatsNewOnMyTwitter/Index/PrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-asoqrycudfgewegnsncnqujjwfkz_ast/WhatsNewOnMyTwitter-Prefix.pch.pch WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch.pch WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406325203.561418
+e406325203.661560
+r1
+xProcessPCH
+x/var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch.pch
+xWhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Prefix.pch338"ProcessPCH /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch.pch WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbadd8fd30738b841^d578a9d30738b841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Prefix.pch0000000000000000^4233"ProcessPCH /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch.pch WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-generated-files.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-own-target-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-all-target-headers.hmap -iquote /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/WhatsNewOnMyTwitter-project-headers.hmap -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources/i386 -I/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/WhatsNewOnMyTwitter.build/Debug-iphonesimulator/WhatsNewOnMyTwitter.build/DerivedSources -F/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch.d -c /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter/WhatsNewOnMyTwitter-Prefix.pch -o /var/folders/td/f3txpsq521n3k9pbc9nypbsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/WhatsNewOnMyTwitter-Prefix-glncxaesvcsgvchgxoebcsiqkotu/WhatsNewOnMyTwitter-Prefix.pch.pch36"103BA54A-89A8-48CD-AB4F-9D250BBA792E-
+bB2E29E3A-9273-4DAE-834F-D157E0D7AF48
+
+CTouch /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app
+s406588181.692206
+e406588181.739620
+r1
+xTouch
+x/Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Touch /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app57"Touch build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app8d47b1150b3cb841^e868bd150b3cb841^---0#0#1#--464"Touch build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app    cd /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/davidsan1001/Documents/xCode_Projects/WhatsNewOnMyTwitter/build/Debug-iphonesimulator/WhatsNewOnMyTwitter.app36"E4B25424-70D1-4174-A84C-D4F0E96610AE-
+bE3CA394C-7290-4DBD-AE73-1EEAFE4BD709
+
